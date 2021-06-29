@@ -1,6 +1,6 @@
 {
 	"dependencies": {
-    	"discord.js": "^12.5.3",
-      "statuspage.js": "^1.0.17"
+		"discord.js": "^12.5.3",
+        	"statuspage.js": "^1.0.17"
 	}
 }
